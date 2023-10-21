@@ -1,0 +1,14 @@
+{
+    "allFieldRequired":"All Field is Required",
+    "alreadyRegistered":"User already exists",
+    "createAdmin":"Admin Created Successfully",
+    "createManager":"Manager Created Successfully",
+    "incorrectEmail":"Incorrect Email",
+    "incorrectPassword":"Incorrect Password",
+    "incorrectMobile":"Incorrect Mobile Number",
+    "mobileInUse":"Mobile Number Already in Use",
+    "clientRegistered":"Client Registered Successfully",
+    "gstStatusIsNotActive":"GST Status is Not Active",
+    "invalidGST":"Invalid GST Number",
+    "deviceLimitReached":"Maximum Device limit Reached"
+}
